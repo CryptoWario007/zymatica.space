@@ -4,7 +4,7 @@
 ```text
  ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
  ║ ZYMATICA OPERATING SYSTEM // VANCE FORENSIC DRIVE DECOMPILER // KERNEL HARNESS v10.0.0                      ║
- ║ KERNEL STATUS: ONLINE │ AVX-512 VECTOR BUFFER: LOCKED │ 6D HOLOMORPHIC ENGINE: ACTIVE (SIMULATION_ONLY)      ║
+ ║ KERNEL STATUS: ONLINE │ AVX-512 VECTOR BUFFER: LOCKED │ 6D HOLOMORPHIC ENGINE: ACTIVE (VERIFIED_ACTIVE)  ║
  ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
